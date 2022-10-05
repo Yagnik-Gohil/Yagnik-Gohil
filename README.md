@@ -6,7 +6,7 @@ Q | A
 **Editor**  | `Visual Studio Code, Visual Studio `
 **Platforms I develop for** | `Web`
 **Languages I Understand**  | `JS, Python, C, C++, C#`
-**Skills**  | `ReactJs , SQL Database, ASP.Net Core, ASP.Net MVC, Problem Solving`
+**Skills**  | `MERN Stack, SQL Database, ASP.Net Core, ASP.Net MVC, Problem Solving`
 
 ![](https://komarev.com/ghpvc/?username=Yagnik-Gohil&color=lightgrey) 
 
@@ -14,9 +14,11 @@ Q | A
   <a href="https://www.linkedin.com/in/gohil-yagnik-087601189/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="mailto:gohilyagnik3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yagnik-Gohil"></img>
