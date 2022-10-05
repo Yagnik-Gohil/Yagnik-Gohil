@@ -10,6 +10,13 @@ Q | A
 
 ![](https://komarev.com/ghpvc/?username=Yagnik-Gohil&color=lightgrey) 
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/gohil-yagnik-087601189/)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/gohil-yagnik-087601189/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:gohilyagnik3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yagnik-Gohil"></img>
