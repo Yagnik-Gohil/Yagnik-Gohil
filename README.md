@@ -20,5 +20,5 @@ Q | A
   </a>
 </div>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yagnik-Gohil&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yagnik's github stats" /></a>
+[![Yagnik stats GRS](https://github-readme-stats.vercel.app/api?username=Yagnik-Gohil&count_private=true&show_icons=true)](https://github.com/Yagnik-Gohil)
 
