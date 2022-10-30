@@ -20,5 +20,4 @@ Q | A
   </a>
 </div>
 
-[![Yagnik stats GRS](https://github-readme-stats.vercel.app/api?username=Yagnik-Gohil&count_private=true&show_icons=true)](https://github.com/Yagnik-Gohil)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yagnik-Gohil&repo=github-readme-stats&theme=buefy" />
