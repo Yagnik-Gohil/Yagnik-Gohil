@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Yagnik. Welcome to my Profile
 
-<p align="left"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagnik-Gohil&layout=compact)] </p>
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Yagnik-Gohil&layout=compact alt=Yagnik-Gohil /> </p>
 
 <p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=Yagnik-Gohil&show_icons=true alt=Yagnik-Gohil /> </p>
 
